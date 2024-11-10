@@ -105,7 +105,7 @@ static BufferPointer sourceBuffer;			/* Pointer to input source buffer */
  ***********************************************************
  */
  /* TO_DO: Follow the standard and adjust datatypes */
-
+// Defining startScanner
 EasyScript_int startScanner(BufferPointer psc_buf) {
 	/* TO_DO: Start histogram */
 	for (EasyScript_int i = 0; i < NUM_TOKENS; i++) {
