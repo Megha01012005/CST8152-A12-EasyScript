@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Scanner.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scanner.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\a22files\\code\\Scanner.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:a22files\\code\\Scanner.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Scanner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scanner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Reader.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reader.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\MainScanner.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainScanner.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Compilers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Compilers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\MainReader.c||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainReader.c||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Reader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Compilers.c||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Compilers.c||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\launch.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:launch.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\A12_EASYSCRIPT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A12_EASYSCRIPT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\A12_EASYSCRIPT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A12_EASYSCRIPT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|CMake Overview Pages||{B1CAA5B0-FEB1-4350-8AB9-F895876842F2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scanner.c",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\a22files\\code\\Scanner.c",
+              "RelativeDocumentMoniker": "a22files\\code\\Scanner.c",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\a22files\\code\\Scanner.c",
+              "RelativeToolTip": "a22files\\code\\Scanner.c",
+              "ViewState": "AgIAAD0CAAAAAAAAAAAAAEkCAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-10T15:06:18.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainScanner.c",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\MainScanner.c",
+              "RelativeDocumentMoniker": "MainScanner.c",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\MainScanner.c",
+              "RelativeToolTip": "MainScanner.c",
+              "ViewState": "AgIAAAABAAAAAAAAAAAAAMAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-09T18:21:07.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scanner.h",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Scanner.h",
+              "RelativeDocumentMoniker": "Scanner.h",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Scanner.h",
+              "RelativeToolTip": "Scanner.h",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-09T18:20:57.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scanner.c",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Scanner.c",
+              "RelativeDocumentMoniker": "Scanner.c",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Scanner.c",
+              "RelativeToolTip": "Scanner.c",
+              "ViewState": "AgIAAE8CAAAAAAAAAAAYwFsCAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-09T18:20:47.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Compilers.c",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Compilers.c",
+              "RelativeDocumentMoniker": "Compilers.c",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Compilers.c",
+              "RelativeToolTip": "Compilers.c",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAGkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-27T12:55:57.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reader.c",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Reader.c",
+              "RelativeDocumentMoniker": "Reader.c",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Reader.c",
+              "RelativeToolTip": "Reader.c",
+              "ViewState": "AgIAAJIBAAAAAAAAAAAAAPkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-27T14:01:16.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainReader.c",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\MainReader.c",
+              "RelativeDocumentMoniker": "MainReader.c",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\MainReader.c",
+              "RelativeToolTip": "MainReader.c",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAAAKgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-27T12:55:57.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launch.vs.json",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\launch.vs.json",
+              "RelativeDocumentMoniker": "launch.vs.json",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\launch.vs.json",
+              "RelativeToolTip": "launch.vs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T00:11:34.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reader.h",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Reader.h",
+              "RelativeDocumentMoniker": "Reader.h",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Reader.h",
+              "RelativeToolTip": "Reader.h",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T12:55:57.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-27T00:01:40.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "A12_EASYSCRIPT.h",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\A12_EASYSCRIPT.h",
+              "RelativeDocumentMoniker": "A12_EASYSCRIPT.h",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\A12_EASYSCRIPT.h",
+              "RelativeToolTip": "A12_EASYSCRIPT.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T00:01:49.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "A12_EASYSCRIPT.cpp",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\A12_EASYSCRIPT.cpp",
+              "RelativeDocumentMoniker": "A12_EASYSCRIPT.cpp",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\A12_EASYSCRIPT.cpp",
+              "RelativeToolTip": "A12_EASYSCRIPT.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T00:01:57.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Compilers.h",
+              "DocumentMoniker": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Compilers.h",
+              "RelativeDocumentMoniker": "Compilers.h",
+              "ToolTip": "C:\\Users\\tanvi\\source\\repos\\A12_EASYSCRIPT\\Compilers.h",
+              "RelativeToolTip": "Compilers.h",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T12:16:26.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CMake Overview Pages",
+              "DocumentMoniker": "CMake Overview Pages",
+              "ToolTip": "CMake Overview Pages",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-27T00:01:28.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

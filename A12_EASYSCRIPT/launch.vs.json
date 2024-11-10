@@ -1,0 +1,16 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "A12_EASYSCRIPT.exe",
+      "name": "A12_EASYSCRIPT.exe",
+      "args": [
+        "2",
+        "README.txt"
+      ]
+    }
+  ]
+}

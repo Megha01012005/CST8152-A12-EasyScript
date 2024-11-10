@@ -1,0 +1,50 @@
+/t    =---------------------------------------=   
+/t    |  COMPILERS - ALGONQUIN COLLEGE (F24)  |   
+/t    =---------------------------------------=   
+/t    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
+/t    @@									 @@    
+/t    @@   @@@@@@@@@@@@@       @@@@@@@      @@    
+/t    @@   @@@@@@@@@@@@@    @@@@@@@@@@@@    @@    
+/t    @@   @@@@			 @@@@@   @@@@    @@    
+/t    @@   @@@@             @@@@@	   @@	 @@    
+/t    @@   @@@@              @@@@@          @@    
+/t    @@   @@@@@@@@@@         @@@@@@@       @@    
+/t    @@   @@@@@@@@@@             @@@@@@    @@    
+/t    @@   @@@@                     @@@@@@  @@    
+/t    @@   @@@@            @@        @@@@@  @@    
+/t    @@   @@@@		    @@@@     @@@@@@  @@    
+/t    @@   @@@@@@@@@@@@@     @@@@@@@@@@@@   @@    
+/t    @@   @@@@@@@@@@@@@       @@@@@@@		 @@    
+/t    @@									 @@    
+/t    @@             EASYSCRIPT			 @@    
+/t    @@									 @@    
+/t    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
+/t											       
+/t[COMPILLER LOGO .........................]	   
+/t											       
+
+[Option '1': Starting READER .....]
+
+Reading file INPUT6_Big.es ....Please wait
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  250
+The current size of the buffer is:  0
+The operational mode of the buffer is: f
+The increment factor of the buffer is:  10
+The first symbol in the buffer is:   
+The value of the flags field are:
+Buffer Flags:
+isEmpty: TRUE
+isFull: FALSE
+isRead: FALSE
+isMoved: FALSE
+Reader statistics : 
+Character statistics:
+Number of errors: 0
+Checksum: 00
+
+Printing buffer contents:
+
+Empty buffer

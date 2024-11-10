@@ -1,0 +1,3 @@
+C:/Users/tanvi/source/repos/A12_EASYSCRIPT/out/build/x64-debug/CMakeFiles/A12_EASYSCRIPT.dir
+C:/Users/tanvi/source/repos/A12_EASYSCRIPT/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/tanvi/source/repos/A12_EASYSCRIPT/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
