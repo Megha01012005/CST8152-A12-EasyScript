@@ -9,23 +9,23 @@
 # ECHO "=---------------------------------------="
 # ECHO "|  COMPILERS - ALGONQUIN COLLEGE (F24)  |"
 # ECHO "=---------------------------------------="
-# ECHO "    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    ”
-# ECHO "    @@                             @@    ”
-# ECHO "    @@           %&@@@@@@@@@@@     @@    ”
-# ECHO "    @@       @%% (@@@@@@@@@  @     @@    ”
-# ECHO "    @@      @& @   @ @       @     @@    ”
-# ECHO "    @@     @ @ %  / /   @@@@@@     @@    ”
-# ECHO "    @@      & @ @  @@              @@    ”
-# ECHO "    @@       @/ @*@ @ @   @        @@    ”
-# ECHO "    @@           @@@@  @@ @ @      @@    ”
-# ECHO "    @@            /@@    @@@ @     @@    ”
-# ECHO "    @@     @      / /     @@ @     @@    ”
-# ECHO "    @@     @ @@   /@/   @@@ @      @@    ”
-# ECHO "    @@     @@@@@@@@@@@@@@@         @@    ”
-# ECHO "    @@                             @@    ”
-# ECHO "    @@         S O F I A           @@    ”
-# ECHO "    @@                             @@    ”
-# ECHO "    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    ”
+# ECHO "    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    ï¿½
+# ECHO "    @@                             @@    ï¿½
+# ECHO "    @@           %&@@@@@@@@@@@     @@    ï¿½
+# ECHO "    @@       @%% (@@@@@@@@@  @     @@    ï¿½
+# ECHO "    @@      @& @   @ @       @     @@    ï¿½
+# ECHO "    @@     @ @ %  / /   @@@@@@     @@    ï¿½
+# ECHO "    @@      & @ @  @@              @@    ï¿½
+# ECHO "    @@       @/ @*@ @ @   @        @@    ï¿½
+# ECHO "    @@           @@@@  @@ @ @      @@    ï¿½
+# ECHO "    @@            /@@    @@@ @     @@    ï¿½
+# ECHO "    @@     @      / /     @@ @     @@    ï¿½
+# ECHO "    @@     @ @@   /@/   @@@ @      @@    ï¿½
+# ECHO "    @@     @@@@@@@@@@@@@@@         @@    ï¿½
+# ECHO "    @@                             @@    ï¿½
+# ECHO "    @@         S O F I A           @@    ï¿½
+# ECHO "    @@                             @@    ï¿½
+# ECHO "    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    ï¿½
 # ECHO "                                         "
 # ECHO "[READER SCRIPT .........................]"
 # ECHO "                                         "
@@ -35,7 +35,7 @@
 ************************************************************
 * File name: Scanner.c
 * Compiler: MS Visual Studio 2022
-* Course: CST 8152 – Compilers, Lab Section: [011, 012]
+* Course: CST 8152 ï¿½ Compilers, Lab Section: [011, 012]
 * Assignment: A22, A32.
 * Date: May 01 2024
 * Purpose: This file contains all functionalities from Scanner.
@@ -75,7 +75,7 @@
 #ifndef SCANNER_H_
 #include "Scanner.h"
 #endif
-
+//Test comment
 /*
 ----------------------------------------------------------------
 TO_DO: Global vars definitions
